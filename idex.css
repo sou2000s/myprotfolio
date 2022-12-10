@@ -1,0 +1,19 @@
+.skills {
+    display: flex;
+    justify-content: center;
+}
+.skills h1{
+    font-size: 50px;
+}
+
+.projects{
+    display: flex;
+    justify-content: center;
+}
+.projects h1{
+    font-size: 50px;
+}
+
+body{
+    background-color: #6AC47E;
+}
